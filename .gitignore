@@ -1,0 +1,11 @@
+# Autoconfig generated stuff
+stamp-h*
+config.h
+config.log
+config.status
+Makefile
+
+# Generated stuff
+libtool
+*.Po
+*Plo
